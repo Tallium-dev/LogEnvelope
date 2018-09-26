@@ -1,5 +1,5 @@
 {
-    "name": "yaro/log-envelope",
+    "name": "tallium-dev/log-envelope",
     "description": "Laravel 5 email on error",
     "keywords": ["laravel", "log", "error", "mail on error"],
     "require": {
